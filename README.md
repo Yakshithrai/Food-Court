@@ -1,1 +1,1 @@
-# FoodOrder-DBMS
+A Database Management System where customers can order the foods in the restaurant. This system maintains a centralized repository for food arrangements and to retrieve food menus easily - HTML, CSS, PHP, MySQL.
